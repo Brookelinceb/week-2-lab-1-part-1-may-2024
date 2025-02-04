@@ -45,7 +45,8 @@ You may choose to do a bonus or extension. These are optional activities that wi
 
 ## Contact
 
-Author: Brookelin Seal
+Author: robert.mccreary@codex.academy
+Author: Brookelin Seal brookelinceb@yahoo.com
 
 ## Acknowledgements
 
